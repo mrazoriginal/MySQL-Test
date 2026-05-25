@@ -84,8 +84,10 @@ Run these files in MySQL:
 ---
 
 ### 2. Install Dependencies / نصب پیش‌نیازها
-pip install flask mysql-connector-python
-python -m pip install flask mysql-connector-python
+
+-pip install flask mysql-connector-python
+
+-python -m pip install flask mysql-connector-python
 ---
 
 ### 3. Run Application / اجرای برنامه
